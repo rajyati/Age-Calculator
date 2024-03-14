@@ -1,7 +1,5 @@
-# Age-Calculator
- age calculator 
-
 Age Calculator
+
 1 A simple age calculator that calculates the age based on the date of birth provided.
 Table of Contents
 1 Introduction
